@@ -82,7 +82,7 @@ jupyter notebook startupDB.ipynb
 ### 3. Load the Dataset
 
 ```python
-df = pd.read_csv('data/50_Startups.csv')
+df = pd.read_csv('data/Startups_dataset.csv')
 df.head()
 ```
 
