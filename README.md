@@ -48,13 +48,18 @@ This dataset is commonly known as the **50 Startups Dataset**.
 ## 📥 Required Imports
 
 ```python
+pip install numpy
+pip install scikit-learn
+pip install scipy
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
-from sklearn.metrics import mean_squared_error, r2_score
+from sklearn.metrics import mean_squared_error
+from scipy.stats import skew , kurtosis
 ```
 
 ---
